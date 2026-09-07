@@ -51,4 +51,4 @@ Data Structures and Algorithms learning journey.
 
 ---
 
-Built with Python 🐍
+Built with Python 
